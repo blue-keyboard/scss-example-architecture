@@ -1,0 +1,4 @@
+input {
+   @extend %primaryButton;
+   @include border(20px, black, 2px);
+}
